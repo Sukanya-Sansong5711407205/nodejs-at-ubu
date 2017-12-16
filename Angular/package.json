@@ -1,14 +1,15 @@
 {
   "name": "sukanya",
   "version": "1.0.0",
-  "description": "",
+  "description": "leson AngularFullStack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Angular"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "AngularFullStack"
+  },
   "author": "SukanyaSaensong",
   "license": "ISC"
 }
